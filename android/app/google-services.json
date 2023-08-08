@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617019020792",
+    "firebase_url": "https://calbmi-554fe-default-rtdb.firebaseio.com",
+    "project_id": "calbmi-554fe",
+    "storage_bucket": "calbmi-554fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617019020792:android:204a3f573d6a187d7b720d",
+        "android_client_info": {
+          "package_name": "com.example.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617019020792-3aq57nknbp49qu2orjlp9rpaqil4ln9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqLhN-cN2ykW3l2lFBqcWF3BSmb4ZWwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617019020792-3aq57nknbp49qu2orjlp9rpaqil4ln9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
