@@ -8,14 +8,14 @@ To RunThis Project On Your Computer, ADD:
 
 * -Firebase To The App
 * -Dependencies:
- *-Firebase_auth
-  *-Firbase_core
-  *-Google_sign_in
+ *  -Firebase_auth
+  * -Firbase_core
+  * -Google_sign_in
 
 ## Features
- Login/Signin using firebase
- Medical Advices For Each Category Based On Your BMI
- Indicates the Weight Needed To Gain/Lose To Reach A Healthy Level
+ * Login/Signin using firebase
+ * Medical Advices For Each Category Based On Your BMI
+ * Indicates the Weight Needed To Gain/Lose To Reach A Healthy Level
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
