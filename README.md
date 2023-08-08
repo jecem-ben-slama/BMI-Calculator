@@ -4,13 +4,13 @@ A BMI Calculator
 
 ## Getting Started
 
-*To RunThis Project On Your Computer, ADD:
+To RunThis Project On Your Computer, ADD:
 
 * -Firebase To The App
- -Dependencies:
- -Firebase_auth
-  -Firbase_core
-  -Google_sign_in
+* -Dependencies:
+ *-Firebase_auth
+  *-Firbase_core
+  *-Google_sign_in
 
 ## Features
  Login/Signin using firebase
